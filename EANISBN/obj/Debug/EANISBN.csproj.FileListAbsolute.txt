@@ -1,0 +1,3 @@
+c:\users\fia85singh\documents\visual studio 2013\Projects\EANISBN\EANISBN\bin\Debug\EANISBN.exe.config
+C:\Users\fia85singh\Documents\Visual Studio 2013\Projects\EANISBN\EANISBN\obj\Debug\EANISBN.csprojResolveAssemblyReference.cache
+C:\Users\fia85mann\Documents\Visual Studio 2013\Projects\HalloMarvin\EANISBN\EANISBN\bin\Debug\EANISBN.exe.config
